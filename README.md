@@ -1,6 +1,6 @@
 # translator_telegram_bot
 A simple telegram bot that, when you send text, translates it into the target language using Google Translate.
-Here we have Mandarin, Portuguese, Italian, German, English, Swedish and Spanish. Although you can modify the code with the languages ​​you need.
+Here we have Mandarin /zh, Portuguese /pt, Italian /it, German /de, English /en, Swedish /sv and Spanish /es. Although you can modify the code with the languages ​​you need.
 
 ![bot_trans](https://github.com/Dinto2/translator_telegram_bot/assets/91417517/025061c0-9d1d-4269-b5bd-7db462641435)
 
